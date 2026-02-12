@@ -1,4 +1,4 @@
-# blinkit-excel-dashboard
+# Blinkit-Excel-Dashboard
 Blinkit Sales Analysis Dashboard built using Microsoft Excel
 
 # Blinkit Sales Analysis Dashboard (Excel)
@@ -28,5 +28,5 @@ To provide management-level insights for monitoring sales, outlets, and product 
 - Dashboard Screenshot (PNG)
 
 ## 👤 Author
-Anand Rajput
+Anand Kumar |
 Aspiring Data Analyst / MIS Executive
